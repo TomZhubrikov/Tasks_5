@@ -2,4 +2,4 @@
 
 // [345, 897, 568, 234] -> 2
 
-Console.WriteLine("Hello, World!");
+
