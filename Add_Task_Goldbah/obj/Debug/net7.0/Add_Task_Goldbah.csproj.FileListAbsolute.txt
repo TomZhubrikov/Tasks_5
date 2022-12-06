@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\bin\Debug\net7.0\Add_Task_Goldbah.exe
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\bin\Debug\net7.0\Add_Task_Goldbah.deps.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\bin\Debug\net7.0\Add_Task_Goldbah.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\bin\Debug\net7.0\Add_Task_Goldbah.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\bin\Debug\net7.0\Add_Task_Goldbah.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\refint\Add_Task_Goldbah.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\Add_Task_Goldbah.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Add_Task_Goldbah\obj\Debug\net7.0\ref\Add_Task_Goldbah.dll

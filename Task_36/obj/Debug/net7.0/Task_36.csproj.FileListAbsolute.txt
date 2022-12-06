@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\bin\Debug\net7.0\Task_36.exe
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\bin\Debug\net7.0\Task_36.deps.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\bin\Debug\net7.0\Task_36.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\bin\Debug\net7.0\Task_36.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\bin\Debug\net7.0\Task_36.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\refint\Task_36.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\Task_36.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\5_practic\Task_36\obj\Debug\net7.0\ref\Task_36.dll
